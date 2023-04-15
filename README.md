@@ -1,2 +1,2 @@
 # Etch-a-sketch
-creating etch a sketch with HTML,CSS,JS
+creating etch a sketch with HTML,CSS and JS.
